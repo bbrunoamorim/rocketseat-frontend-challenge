@@ -2,7 +2,7 @@ import { Search, ShoppingBag } from 'lucide-react'
 
 export default function Header() {
   return (
-    <div className="flex flex-1 justify-between mx-20 mt-5">
+    <div className="flex flex-1 justify-between mx-20 my-3">
       <div>
         <h1 className="font-alt text-4xl text-gray-700">capputeeno</h1>
       </div>
