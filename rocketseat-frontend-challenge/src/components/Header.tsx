@@ -12,7 +12,7 @@ export default function Header() {
             type="text"
             name="search"
             autoComplete="off"
-            placeholder="Procurando por algo específico"
+            placeholder="Procurando por algo específico?"
             className="font-saira bg-gray-100 rounded-md p-2 text-sm w-[352px] h-[42px]"
           />
         </label>
